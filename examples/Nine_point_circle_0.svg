@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Drawmetry (http://www.drawmetry.com/) -->
+<svg width = "461.60" height = "455.24"
+  xmlns:dm="http://www.drawmetry.com"
+  xmlns="http://www.w3.org/2000/svg">
+  <g transform = "translate(3.30, -25.70)" >
+    <path id = "S_0"  stroke="#0000ff" stroke-width="1.0" fill="none" d = "
+      M 281.6236 64.1362
+      C 389.1417 96.0447 448.3006 212.9457 409.2843 318.9247
+      C 372.1977 419.2496 261.2804 470.9429 160.8767 435.4067
+      C 60.7960 399.9643 6.7013 289.9556 41.2423 188.3644
+      C 77.0874 84.2357 186.9902 35.7019 281.6236 64.1362
+      Z" />
+    <polyline id = "L_0"  stroke="#00ff00" stroke-width="1.0" fill="#ffffcc"
+      points = " 165.3998 136.9330 134.1479 118.3799 418.0800 286.9400" />
+    <line id = "L_1" x1 = "99.7399" y1 = "176.3388" x2 = "418.0800" y2 = "286.9400" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_2" x1 = "291.7399" y1 = "176.3388" x2 = "34.0800" y2 = "286.9400" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_3" x1 = "226.0800" y1 = "286.9400" x2 = "165.3998" y2 = "65.7375" stroke="#cccccc" stroke-width="1.0"/>
+    <polyline id = "L_4"  stroke="#00ff00" stroke-width="1.0" fill="#ffffcc"
+      points = " 165.3998 136.9330 165.3998 286.9400 165.3998 65.7375" />
+    <line id = "L_5" x1 = "226.0800" y1 = "251.3422" x2 = "165.3998" y2 = "136.9330" stroke="#ff0000" stroke-width="1.0"/>
+    <line id = "L_6" x1 = "99.7399" y1 = "176.3388" x2 = "226.0800" y2 = "251.3422" stroke="#ffcc00" stroke-width="1.0"/>
+    <line id = "L_7" x1 = "226.0800" y1 = "251.3422" x2 = "226.0800" y2 = "286.9400" stroke="#ffcc00" stroke-width="1.0"/>
+    <line id = "L_8" x1 = "226.0800" y1 = "251.3422" x2 = "291.7399" y2 = "176.3388" stroke="#ffcc00" stroke-width="1.0"/>
+    <polyline id = "L_9"  stroke="#00ff00" stroke-width="1.0" fill="#ffffcc"
+      points = " 200.6848 96.6269 34.0800 286.9400 165.3998 136.9330" />
+    <polygon id ="L_10"  stroke="#000000" stroke-width="1.0" fill="none"
+      points = " 34.0800 286.9400 165.3998 65.7375 418.0800 286.9400" />
+    <text id = "C_0" x="1.80" y="66.39" text-anchor="middle" font-family="Arial" font-size="12" fill="#000000" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 163.5983, 65.9026)" >
+      <dm:cell-dimension width = "16.00" height = "16.00" visible = "true"/>
+        O
+    </text>
+    <text id = "C_1" x="-10.20" y="66.39" text-anchor="middle" font-family="Arial" font-size="12" fill="#000000" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 32.2785, 215.9096)" >
+      <dm:cell-dimension width = "16.00" height = "16.00" visible = "true"/>
+        A
+    </text>
+    <text id = "C_2" x="17.30" y="64.89" text-anchor="middle" font-family="Arial" font-size="12" fill="#000000" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 416.2785, 215.9096)" >
+      <dm:cell-dimension width = "15.00" height = "19.00" visible = "true"/>
+        B
+    </text>
+    <text id = "C_3" x="1.80" y="66.39" text-anchor="middle" font-family="Arial" font-size="12" fill="#000000" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 163.5983, -5.2929)" >
+      <dm:cell-dimension width = "16.00" height = "16.00" visible = "true"/>
+        C
+    </text>
+    <text id = "C_4" x="1.80" y="66.39" text-anchor="middle" font-family="Arial" font-size="12" fill="#000000" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 224.2785, 180.3118)" >
+      <dm:cell-dimension width = "16.00" height = "16.00" visible = "true"/>
+        M
+    </text>
+    <text id = "C_5" x="5.68" y="66.39" text-anchor="middle" font-family="Arial" font-size="12" fill="#000000" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 204.0517, 142.1754)" >
+      <dm:cell-dimension width = "16.25" height = "16.00" visible = "true"/>
+        G
+    </text>
+    <path id = "S_1"  stroke="#ff0000" stroke-width="1.0" fill="none" d = "
+      M 101.8008 167.5245
+      C 87.2382 218.9614 116.9403 272.6316 168.0197 287.7560
+      C 220.3868 303.2562 275.4812 272.5378 289.9002 219.9571
+      C 304.2674 167.5765 272.8082 113.2486 220.2315 99.6233
+      C 169.1768 86.3747 116.3011 116.3980 101.8008 167.5245" />
+    <dm:point id = "P_0" x = "34.0800" y = "286.9400" visible = "true"/>
+    <dm:point id = "P_1" x = "165.3998" y = "65.7375" visible = "true"/>
+    <dm:point id = "P_2" x = "418.0800" y = "286.9400" visible = "true"/>
+    <dm:point id = "P_3" x = "99.7399" y = "176.3388" visible = "true"/>
+    <dm:point id = "P_4" x = "165.3998" y = "286.9400" visible = "true"/>
+    <dm:point id = "P_5" x = "226.0800" y = "286.9400" visible = "true"/>
+    <dm:point id = "P_6" x = "134.1479" y = "118.3799" visible = "true"/>
+    <dm:point id = "P_7" x = "291.7399" y = "176.3388" visible = "true"/>
+    <dm:point id = "P_8" x = "200.6848" y = "96.6269" visible = "true"/>
+    <dm:point id = "P_9" x = "165.3998" y = "136.9330" visible = "true"/>
+    <dm:point id = "P_10" x = "226.0800" y = "251.3422" visible = "true"/>
+    <dm:point id = "P_11" x = "195.7399" y = "194.1376" visible = "true"/>
+    <dm:point id = "P_12" x = "205.8533" y = "213.2058" visible = "true"/>
+  </g>
+  <dm:constraint dm:target = "P_3" dm:constraint-text = "= center(P_0,P_1)" />
+  <dm:constraint dm:target = "C_1" dm:constraint-text = "= anchor(P_0)" />
+  <dm:constraint dm:target = "C_3" dm:constraint-text = "= anchor(P_1)" />
+  <dm:constraint dm:target = "P_2" dm:constraint-text = "= horizontal(P_0)" />
+  <dm:constraint dm:target = "P_5" dm:constraint-text = "= center(P_2,P_0)" />
+  <dm:constraint dm:target = "L_1" dm:constraint-text = "= vertices(P_3, P_2)" />
+  <dm:constraint dm:target = "P_8" dm:constraint-text = "= project(P_0,P_1,P_2)" />
+  <dm:constraint dm:target = "L_10" dm:constraint-text = "= vertices(P_0, P_1, P_2)" />
+  <dm:constraint dm:target = "P_7" dm:constraint-text = "= center(P_1,P_2)" />
+  <dm:constraint dm:target = "C_2" dm:constraint-text = "= anchor(P_2)" />
+  <dm:constraint dm:target = "P_6" dm:constraint-text = "= project(P_2,P_0,P_1)" />
+  <dm:constraint dm:target = "P_4" dm:constraint-text = "= project(P_1,P_0,P_2)" />
+  <dm:constraint dm:target = "L_3" dm:constraint-text = "= vertices(P_5, P_1)" />
+  <dm:constraint dm:target = "L_2" dm:constraint-text = "= vertices(P_7, P_0)" />
+  <dm:constraint dm:target = "P_9" dm:constraint-text = "= colinear(P_8,P_0) and colinear(P_6,P_2)" />
+  <dm:constraint dm:target = "L_0" dm:constraint-text = "= vertices(P_9, P_6, P_2)" />
+  <dm:constraint dm:target = "C_0" dm:constraint-text = "= anchor(P_9)" />
+  <dm:constraint dm:target = "L_4" dm:constraint-text = "= vertices(P_9, P_4, P_1)" />
+  <dm:constraint dm:target = "L_9" dm:constraint-text = "= vertices(P_8, P_0, P_9)" />
+  <dm:constraint dm:target = "P_10" dm:constraint-text = "= equidistant(P_0,P_1) and equidistant(P_1,P_2)" />
+  <dm:constraint dm:target = "C_4" dm:constraint-text = "= anchor(P_10)" />
+  <dm:constraint dm:target = "L_5" dm:constraint-text = "= vertices(P_10, P_9)" />
+  <dm:constraint dm:target = "L_8" dm:constraint-text = "= vertices(P_10, P_7)" />
+  <dm:constraint dm:target = "L_6" dm:constraint-text = "= vertices(P_3, P_10)" />
+  <dm:constraint dm:target = "S_0" dm:constraint-text = "= anchor(P_10, P_2)" />
+  <dm:constraint dm:target = "P_11" dm:constraint-text = "= center(P_10,P_9)" />
+  <dm:constraint dm:target = "L_7" dm:constraint-text = "= vertices(P_10, P_5)" />
+  <dm:constraint dm:target = "S_1" dm:constraint-text = "= anchor(P_11, P_5)" />
+  <dm:constraint dm:target = "P_12" dm:constraint-text = "= colinear(P_5,P_1) and colinear(P_3,P_2)" />
+  <dm:constraint dm:target = "C_5" dm:constraint-text = "= anchor(P_12)" />
+</svg>

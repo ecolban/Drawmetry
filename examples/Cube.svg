@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Drawmetry (http://www.drawmetry.com/) -->
+<svg width = "933.30" height = "922.34"
+  xmlns:dm="http://www.drawmetry.com"
+  xmlns="http://www.w3.org/2000/svg">
+  <g transform = "translate(-0.00, 0.00)" >
+    <line id = "L_0" x1 = "671.4398" y1 = "732.9910" x2 = "671.4398" y2 = "401.1126" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_1" x1 = "725.1569" y1 = "45.1888" x2 = "764.6624" y2 = "188.4857" stroke="#ccccff" stroke-width="1.0"/>
+    <line id = "L_2" x1 = "779.6421" y1 = "551.3838" x2 = "740.1366" y2 = "641.2333" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_3" x1 = "779.6421" y1 = "551.3838" x2 = "891.5146" y2 = "454.8993" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_4" x1 = "779.6421" y1 = "551.3838" x2 = "652.7899" y2 = "438.3112" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_5" x1 = "740.1366" y1 = "172.4548" x2 = "740.1366" y2 = "641.2333" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_6" x1 = "725.1569" y1 = "45.1888" x2 = "725.1569" y2 = "431.6761" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_7" x1 = "329.6744" y1 = "551.3838" x2 = "779.6421" y2 = "551.3838" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_8" x1 = "903.0482" y1 = "572.0176" x2 = "40.6493" y2 = "572.0176" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_9" x1 = "112.7373" y1 = "544.7488" x2 = "852.0091" y2 = "544.7488" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_10" x1 = "185.9634" y1 = "454.8993" x2 = "891.5146" y2 = "454.8993" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_11" x1 = "891.5146" y1 = "224.4123" x2 = "891.5146" y2 = "454.8993" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_12" x1 = "903.0482" y1 = "572.0176" x2 = "903.0482" y2 = "30.2068" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_13" x1 = "852.0091" y1 = "81.1153" x2 = "852.0091" y2 = "544.7488" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_14" x1 = "764.6624" y1 = "188.4857" x2 = "764.6624" y2 = "341.8266" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_15" x1 = "779.6421" y1 = "315.7517" x2 = "779.6421" y2 = "551.3838" stroke="#cccccc" stroke-width="1.0"/>
+    <polyline id = "L_16"  stroke="#0000ff" stroke-width="1.0" fill="#00ff00" fill-opacity="0.15"
+      points = " 725.1569 431.6761 764.6624 341.8266 891.5146 454.8993 852.0091 544.7488" />
+    <polyline id = "L_17"  stroke="#0000ff" stroke-width="1.0" fill="#ff0000" fill-opacity="0.15"
+      points = " 740.1366 172.4548 852.0091 81.1153 891.5146 224.4123 779.6421 315.7517" />
+    <polyline id = "L_18"  stroke="#0000ff" stroke-width="1.0" fill="#00ff00" fill-opacity="0.15"
+      points = " 740.1366 172.4548 613.2844 136.5282 652.7899 279.8252 779.6421 315.7517" />
+    <polyline id = "L_19"  stroke="#0000ff" stroke-width="1.0" fill="#0000ff" fill-opacity="0.41"
+      points = " 613.2844 136.5282 725.1569 45.1888 852.0091 81.1153 740.1366 172.4548" />
+    <line id = "L_20" x1 = "250.4048" y1 = "341.8266" x2 = "764.6624" y2 = "341.8266" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_21" x1 = "250.4048" y1 = "372.4424" x2 = "185.9634" y2 = "257.4228" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_22" x1 = "320.8897" y1 = "516.1322" x2 = "256.4483" y2 = "401.1126" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_23" x1 = "671.4398" y1 = "401.1126" x2 = "530.3503" y2 = "386.7775" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_24" x1 = "530.3503" y1 = "386.7775" x2 = "472.2201" y2 = "257.4228" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_25" x1 = "530.3503" y1 = "386.7775" x2 = "447.3910" y2 = "501.7971" stroke="#cccccc" stroke-width="1.0"/>
+    <text id = "C_0" x="40.00" y="107.00" text-anchor="middle" font-family="Arial" font-size="12" fill="#cccccc" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 215.9941, 246.1930)" >
+      <dm:cell-dimension width = "90.00" height = "27.00" visible = "true"/>
+        -3.93
+    </text>
+    <line id = "L_26" x1 = "177.1787" y1 = "431.6761" x2 = "725.1569" y2 = "431.6761" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_27" x1 = "389.2607" y1 = "372.4424" x2 = "250.4048" y2 = "372.4424" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_28" x1 = "447.3910" y1 = "501.7971" x2 = "177.1787" y2 = "501.7971" stroke="#cccccc" stroke-width="1.0"/>
+    <path id = "S_0"  stroke="#cccccc" stroke-width="1.0" fill="none" d = "
+      M 390.2459 407.9705
+      C 384.7470 372.2475 393.6460 334.5744 414.5279 305.0794
+      C 435.4748 275.1911 468.4105 254.0316 504.2926 247.3747
+      C 541.8006 240.2320 582.0409 249.1229 613.0228 271.4528
+      C 642.2020 292.2425 662.9091 324.5033 669.6632 359.6875
+      C 676.9296 396.5081 668.7067 436.0637 647.4075 466.9569
+      C 626.2093 498.0533 592.1255 519.9845 555.0481 526.4118
+      C 518.0598 533.0223 478.5958 524.0859 448.0707 502.1716
+      C 417.1648 480.2541 395.8150 445.4406 390.2459 407.9705" />
+    <line id = "L_29" x1 = "671.4398" y1 = "401.1126" x2 = "588.4805" y2 = "516.1322" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_30" x1 = "530.3503" y1 = "386.7775" x2 = "40.6493" y2 = "572.0176" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_31" x1 = "556.3343" y1 = "376.0340" x2 = "545.5633" y2 = "386.7775" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_32" x1 = "12.0035" y1 = "386.7775" x2 = "890.7468" y2 = "386.7775" stroke="#000000" stroke-width="1.0"/>
+    <line id = "L_33" x1 = "545.5633" y1 = "386.7775" x2 = "545.5633" y2 = "822.3001" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_34" x1 = "556.3343" y1 = "386.7775" x2 = "556.3343" y2 = "376.0340" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_35" x1 = "40.6493" y1 = "386.7775" x2 = "40.6493" y2 = "572.0176" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_36" x1 = "256.4483" y1 = "401.1126" x2 = "256.4483" y2 = "641.2333" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_37" x1 = "740.1366" y1 = "641.2333" x2 = "256.4483" y2 = "641.2333" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_38" x1 = "530.3503" y1 = "386.7775" x2 = "530.3503" y2 = "821.0543" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_39" x1 = "256.4483" y1 = "401.1126" x2 = "671.4398" y2 = "401.1126" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_40" x1 = "388.5344" y1 = "386.7775" x2 = "388.5344" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_41" x1 = "671.4398" y1 = "732.9910" x2 = "388.5344" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_42" x1 = "459.4423" y1 = "263.9613" x2 = "459.4423" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_43" x1 = "601.2582" y1 = "263.9613" x2 = "601.2582" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <text id = "C_1" x="38.13" y="151.36" text-anchor="middle" font-family="Arial" font-size="12" fill="#cccccc" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 215.9941, 246.1930)" >
+      <dm:cell-dimension width = "98.00" height = "34.00" visible = "true"/>
+        -9.32
+    </text>
+    <line id = "L_44" x1 = "588.4805" y1 = "516.1322" x2 = "447.3910" y2 = "501.7971" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_45" x1 = "447.3910" y1 = "501.7971" x2 = "389.2607" y2 = "372.4424" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_46" x1 = "389.2607" y1 = "372.4424" x2 = "472.2201" y2 = "257.4228" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_47" x1 = "472.2201" y1 = "257.4228" x2 = "613.3096" y2 = "271.7579" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_48" x1 = "613.3096" y1 = "271.7579" x2 = "671.4398" y2 = "401.1126" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_49" x1 = "588.4805" y1 = "516.1322" x2 = "588.4805" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_50" x1 = "459.4423" y1 = "632.7120" x2 = "588.4805" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_51" x1 = "447.3910" y1 = "501.7971" x2 = "447.3910" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_52" x1 = "601.2582" y1 = "732.9910" x2 = "447.3910" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_53" x1 = "389.2607" y1 = "372.4424" x2 = "389.2607" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_54" x1 = "671.4398" y1 = "732.9910" x2 = "588.4805" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_55" x1 = "588.4805" y1 = "632.7120" x2 = "447.3910" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_56" x1 = "447.3910" y1 = "732.9910" x2 = "530.3503" y2 = "833.2700" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_57" x1 = "530.3503" y1 = "833.2700" x2 = "671.4398" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_58" x1 = "672.1662" y1 = "632.7120" x2 = "389.2607" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_59" x1 = "472.2201" y1 = "257.4228" x2 = "472.2201" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_60" x1 = "601.2582" y1 = "732.9910" x2 = "472.2201" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_61" x1 = "613.3096" y1 = "271.7579" x2 = "613.3096" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_62" x1 = "459.4423" y1 = "632.7120" x2 = "613.3096" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_63" x1 = "389.2607" y1 = "632.7120" x2 = "447.3910" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_64" x1 = "389.2607" y1 = "632.7120" x2 = "472.2201" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_65" x1 = "613.3096" y1 = "632.7120" x2 = "671.4398" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_66" x1 = "613.3096" y1 = "632.7120" x2 = "472.2201" y2 = "732.9910" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_67" x1 = "472.2201" y1 = "732.9910" x2 = "530.3503" y2 = "833.2700" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_68" x1 = "613.3096" y1 = "632.7120" x2 = "530.3503" y2 = "532.4331" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_69" x1 = "530.3503" y1 = "532.4331" x2 = "389.2607" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_70" x1 = "530.3503" y1 = "532.4331" x2 = "588.4805" y2 = "632.7120" stroke="#cccccc" stroke-width="1.0"/>
+    <text id = "C_2" x="43.63" y="193.86" text-anchor="middle" font-family="Arial" font-size="12" fill="#cccccc" transform = "matrix(1.0000, 0.0000, 0.0000, 1.0000, 222.4941, 248.1930)" >
+      <dm:cell-dimension width = "94.00" height = "33.00" visible = "true"/>
+        -5.07
+    </text>
+    <line id = "L_71" x1 = "177.1787" y1 = "431.6761" x2 = "112.7373" y2 = "544.7488" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_72" x1 = "185.9634" y1 = "454.8993" x2 = "250.4048" y2 = "341.8266" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_73" x1 = "112.7373" y1 = "544.7488" x2 = "256.4483" y2 = "641.2333" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_74" x1 = "256.4483" y1 = "641.2333" x2 = "329.6744" y2 = "551.3838" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_75" x1 = "320.8897" y1 = "528.1607" x2 = "256.4483" y2 = "641.2333" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_76" x1 = "112.7373" y1 = "544.7488" x2 = "112.7373" y2 = "386.7775" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_77" x1 = "256.4483" y1 = "401.1126" x2 = "112.7373" y2 = "386.7775" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_78" x1 = "394.1158" y1 = "438.3112" x2 = "394.1158" y2 = "386.7775" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_79" x1 = "588.4805" y1 = "516.1322" x2 = "320.8897" y2 = "516.1322" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_80" x1 = "320.8897" y1 = "528.1607" x2 = "320.8897" y2 = "516.1322" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_81" x1 = "613.3096" y1 = "271.7579" x2 = "329.6744" y2 = "271.7579" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_82" x1 = "329.6744" y1 = "551.3838" x2 = "329.6744" y2 = "271.7579" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_83" x1 = "329.6744" y1 = "271.7579" x2 = "256.4483" y2 = "401.1126" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_84" x1 = "472.2201" y1 = "257.4228" x2 = "185.9634" y2 = "257.4228" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_85" x1 = "185.9634" y1 = "454.8993" x2 = "185.9634" y2 = "257.4228" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_86" x1 = "112.7373" y1 = "386.7775" x2 = "185.9634" y2 = "257.4228" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_87" x1 = "329.6744" y1 = "271.7579" x2 = "185.9634" y2 = "257.4228" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_88" x1 = "177.1787" y1 = "431.6761" x2 = "177.1787" y2 = "501.7971" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_89" x1 = "320.8897" y1 = "516.1322" x2 = "177.1787" y2 = "501.7971" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_90" x1 = "177.1787" y1 = "501.7971" x2 = "112.7373" y2 = "386.7775" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_91" x1 = "320.8897" y1 = "516.1322" x2 = "394.1158" y2 = "386.7775" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_92" x1 = "394.1158" y1 = "386.7775" x2 = "329.6744" y2 = "271.7579" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_93" x1 = "250.4048" y1 = "341.8266" x2 = "250.4048" y2 = "372.4424" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_94" x1 = "250.4048" y1 = "372.4424" x2 = "177.1787" y2 = "501.7971" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_95" x1 = "394.1158" y1 = "438.3112" x2 = "652.7899" y2 = "438.3112" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_96" x1 = "652.7899" y1 = "279.8252" x2 = "652.7899" y2 = "438.3112" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_97" x1 = "320.8897" y1 = "528.1607" x2 = "613.2844" y2 = "528.1607" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_98" x1 = "613.2844" y1 = "136.5282" x2 = "613.2844" y2 = "528.1607" stroke="#cccccc" stroke-width="1.0"/>
+    <line id = "L_99" x1 = "652.7899" y1 = "279.8252" x2 = "764.6624" y2 = "188.4857" stroke="#ccccff" stroke-width="1.0"/>
+    <line id = "L_100" x1 = "725.1569" y1 = "431.6761" x2 = "852.0091" y2 = "544.7488" stroke="#0000ff" stroke-width="1.0"/>
+    <line id = "L_101" x1 = "891.5146" y1 = "454.8993" x2 = "852.0091" y2 = "544.7488" stroke="#0000ff" stroke-width="1.0"/>
+    <line id = "L_102" x1 = "779.6421" y1 = "315.7517" x2 = "891.5146" y2 = "224.4123" stroke="#0000ff" stroke-width="1.0"/>
+    <line id = "L_103" x1 = "764.6624" y1 = "188.4857" x2 = "891.5146" y2 = "224.4123" stroke="#ccccff" stroke-width="1.0"/>
+    <line id = "L_104" x1 = "515.6873" y1 = "416.5771" x2 = "921.3027" y2 = "11.9990" stroke="#ff0000" stroke-width="1.0"/>
+    <polyline id = "L_105"  stroke="#ff0000" stroke-width="1.0" fill="none"
+      points = " 613.2844 136.5282 740.1366 172.4548 779.6421 315.7517" />
+    <line id = "L_106" x1 = "740.1366" y1 = "172.4548" x2 = "852.0091" y2 = "81.1153" stroke="#ff0000" stroke-width="1.0"/>
+    <polyline id = "L_107"  stroke="#ff0000" stroke-width="1.0" fill="none"
+      points = " 613.2844 528.1607 740.1366 641.2333 852.0091 544.7488" />
+    <path id = "S_1"  stroke="#ff0000" stroke-width="1.0" fill="none" d = "
+      M 747.5293 169.4756
+      C 749.0846 173.2880 747.4369 177.7666 743.6985 179.6322
+      C 739.7571 181.6105 734.9126 179.9819 732.9589 176.0523
+      C 730.9651 172.0658 732.6372 167.1591 736.7141 165.2407
+      C 740.7946 163.3159 745.7840 165.1805 747.5293 169.4756" />
+    <path id = "S_2"  stroke="#ff0000" stroke-width="1.0" fill="none" d = "
+      M 747.8275 643.5952
+      C 746.6104 647.5297 742.4942 649.9464 738.4201 649.0161
+      C 734.1176 648.0442 731.4058 643.7106 732.3893 639.4328
+      C 733.3779 635.0854 737.7846 632.3532 742.1539 633.4575
+      C 746.5301 634.5591 749.2041 639.1671 747.8275 643.5952" />
+    <line id = "L_108" x1 = "556.3343" y1 = "386.7775" x2 = "903.0482" y2 = "572.0176" stroke="#ff0000" stroke-width="1.0"/>
+    <polyline id = "L_109"  stroke="#0000ff" stroke-width="1.0" fill="#0000ff" fill-opacity="0.52"
+      points = " 613.2844 528.1607 725.1569 431.6761 852.0091 544.7488 740.1366 641.2333" />
+    <polyline id = "L_110"  stroke="#0000ff" stroke-width="1.0" fill="#ff0000" fill-opacity="0.15"
+      points = " 613.2844 528.1607 652.7899 438.3112 764.6624 341.8266 725.1569 431.6761" />
+    <line id = "L_111" x1 = "394.1158" y1 = "386.7775" x2 = "250.4048" y2 = "372.4424" stroke="#cc00cc" stroke-width="1.0"/>
+    <line id = "L_112" x1 = "394.1158" y1 = "438.3112" x2 = "250.4048" y2 = "341.8266" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_113" x1 = "320.8897" y1 = "528.1607" x2 = "177.1787" y2 = "431.6761" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_114" x1 = "112.7373" y1 = "544.7488" x2 = "185.9634" y2 = "454.8993" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_115" x1 = "329.6744" y1 = "551.3838" x2 = "185.9634" y2 = "454.8993" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_116" x1 = "250.4048" y1 = "341.8266" x2 = "177.1787" y2 = "431.6761" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_117" x1 = "394.1158" y1 = "438.3112" x2 = "320.8897" y2 = "528.1607" stroke="#339900" stroke-width="1.0"/>
+    <line id = "L_118" x1 = "329.6744" y1 = "551.3838" x2 = "394.1158" y2 = "438.3112" stroke="#339900" stroke-width="1.0"/>
+    <dm:point id = "P_0" x = "40.6493" y = "572.0176" visible = "true"/>
+    <dm:point id = "P_1" x = "12.0035" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_2" x = "890.7468" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_3" x = "556.3343" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_4" x = "903.0482" y = "572.0176" visible = "true"/>
+    <dm:point id = "P_5" x = "545.5633" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_6" x = "515.6873" y = "416.5771" visible = "true"/>
+    <dm:point id = "P_7" x = "740.1366" y = "172.4548" visible = "true"/>
+    <dm:point id = "P_8" x = "740.1366" y = "641.2333" visible = "true"/>
+    <dm:point id = "P_9" x = "545.5633" y = "822.3001" visible = "true"/>
+    <dm:point id = "P_10" x = "556.3343" y = "376.0340" visible = "true"/>
+    <dm:point id = "P_11" x = "903.0482" y = "30.2068" visible = "true"/>
+    <dm:point id = "P_12" x = "903.0482" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_13" x = "40.6493" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_14" x = "530.3503" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_15" x = "256.4483" y = "401.1126" visible = "true"/>
+    <dm:point id = "P_16" x = "256.4483" y = "641.2333" visible = "true"/>
+    <dm:point id = "P_17" x = "530.3503" y = "821.0543" visible = "true"/>
+    <dm:point id = "P_18" x = "530.3503" y = "910.3431" visible = "true"/>
+    <dm:point id = "P_19" x = "671.4398" y = "732.9910" visible = "true"/>
+    <dm:point id = "P_20" x = "671.4398" y = "401.1126" visible = "true"/>
+    <dm:point id = "P_21" x = "388.5344" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_22" x = "388.5344" y = "732.9910" visible = "true"/>
+    <dm:point id = "P_23" x = "530.3503" y = "833.2700" visible = "true"/>
+    <dm:point id = "P_24" x = "530.3503" y = "532.4331" visible = "true"/>
+    <dm:point id = "P_25" x = "459.4423" y = "632.7120" visible = "true"/>
+    <dm:point id = "P_26" x = "530.3503" y = "682.8515" visible = "true"/>
+    <dm:point id = "P_27" x = "672.1662" y = "632.7120" visible = "true"/>
+    <dm:point id = "P_28" x = "601.2582" y = "732.9910" visible = "true"/>
+    <dm:point id = "P_29" x = "459.4423" y = "509.5937" visible = "true"/>
+    <dm:point id = "P_30" x = "601.2582" y = "263.9613" visible = "true"/>
+    <dm:point id = "P_31" x = "672.1662" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_32" x = "601.2582" y = "509.5937" visible = "true"/>
+    <dm:point id = "P_33" x = "459.4423" y = "263.9613" visible = "true"/>
+    <dm:point id = "P_34" x = "671.9883" y = "379.6764" visible = "true"/>
+    <dm:point id = "P_35" x = "588.4805" y = "516.1322" visible = "true"/>
+    <dm:point id = "P_36" x = "447.3910" y = "501.7971" visible = "true"/>
+    <dm:point id = "P_37" x = "389.2607" y = "372.4424" visible = "true"/>
+    <dm:point id = "P_38" x = "472.2201" y = "257.4228" visible = "true"/>
+    <dm:point id = "P_39" x = "613.3096" y = "271.7579" visible = "true"/>
+    <dm:point id = "P_40" x = "588.4805" y = "632.7120" visible = "true"/>
+    <dm:point id = "P_41" x = "447.3910" y = "732.9910" visible = "true"/>
+    <dm:point id = "P_42" x = "389.2607" y = "632.7120" visible = "true"/>
+    <dm:point id = "P_43" x = "472.2201" y = "732.9910" visible = "true"/>
+    <dm:point id = "P_44" x = "613.3096" y = "632.7120" visible = "true"/>
+    <dm:point id = "P_45" x = "112.7373" y = "544.7488" visible = "true"/>
+    <dm:point id = "P_46" x = "177.1787" y = "431.6761" visible = "true"/>
+    <dm:point id = "P_47" x = "320.8897" y = "528.1607" visible = "true"/>
+    <dm:point id = "P_48" x = "394.1158" y = "438.3112" visible = "true"/>
+    <dm:point id = "P_49" x = "329.6744" y = "551.3838" visible = "true"/>
+    <dm:point id = "P_50" x = "250.4048" y = "341.8266" visible = "true"/>
+    <dm:point id = "P_51" x = "185.9634" y = "454.8993" visible = "true"/>
+    <dm:point id = "P_52" x = "112.7373" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_53" x = "394.1158" y = "386.7775" visible = "true"/>
+    <dm:point id = "P_54" x = "320.8897" y = "516.1322" visible = "true"/>
+    <dm:point id = "P_55" x = "329.6744" y = "271.7579" visible = "true"/>
+    <dm:point id = "P_56" x = "185.9634" y = "257.4228" visible = "true"/>
+    <dm:point id = "P_57" x = "177.1787" y = "501.7971" visible = "true"/>
+    <dm:point id = "P_58" x = "250.4048" y = "372.4424" visible = "true"/>
+    <dm:point id = "P_59" x = "779.6421" y = "551.3838" visible = "true"/>
+    <dm:point id = "P_60" x = "779.6421" y = "315.7517" visible = "true"/>
+    <dm:point id = "P_61" x = "652.7899" y = "438.3112" visible = "true"/>
+    <dm:point id = "P_62" x = "652.7899" y = "279.8252" visible = "true"/>
+    <dm:point id = "P_63" x = "613.2844" y = "528.1607" visible = "true"/>
+    <dm:point id = "P_64" x = "613.2844" y = "136.5282" visible = "true"/>
+    <dm:point id = "P_65" x = "764.6624" y = "188.4857" visible = "true"/>
+    <dm:point id = "P_66" x = "764.6624" y = "341.8266" visible = "true"/>
+    <dm:point id = "P_67" x = "852.0091" y = "544.7488" visible = "true"/>
+    <dm:point id = "P_68" x = "852.0091" y = "81.1153" visible = "true"/>
+    <dm:point id = "P_69" x = "725.1569" y = "431.6761" visible = "true"/>
+    <dm:point id = "P_70" x = "725.1569" y = "45.1888" visible = "true"/>
+    <dm:point id = "P_71" x = "891.5146" y = "454.8993" visible = "true"/>
+    <dm:point id = "P_72" x = "891.5146" y = "224.4123" visible = "true"/>
+    <dm:point id = "P_73" x = "921.3027" y = "11.9990" visible = "true"/>
+    <dm:point id = "P_74" x = "747.5150" y = "169.3629" visible = "true"/>
+    <dm:point id = "P_75" x = "747.7988" y = "643.5335" visible = "true"/>
+  </g>
+  <dm:constraint dm:target = "P_2" dm:constraint-text = "= horizontal(P_1)" />
+  <dm:constraint dm:target = "L_32" dm:constraint-text = "= vertices(P_1, P_2)" />
+  <dm:constraint dm:target = "P_3" dm:constraint-text = "= colinear(P_1,P_2)" />
+  <dm:constraint dm:target = "L_108" dm:constraint-text = "= vertices(P_3, P_4)" />
+  <dm:constraint dm:target = "P_5" dm:constraint-text = "= colinear(P_1,P_2)" />
+  <dm:constraint dm:target = "C_0" dm:constraint-text = "= angle(P_6,P_5,P_2)" />
+  <dm:constraint dm:target = "P_8" dm:constraint-text = "= vertical(P_7)" />
+  <dm:constraint dm:target = "L_5" dm:constraint-text = "= vertices(P_7, P_8)" />
+  <dm:constraint dm:target = "P_9" dm:constraint-text = "= vertical(P_5)" />
+  <dm:constraint dm:target = "L_33" dm:constraint-text = "= vertices(P_5, P_9)" />
+  <dm:constraint dm:target = "P_10" dm:constraint-text = "= vertical(P_3) and colinear(P_5,P_6)" />
+  <dm:constraint dm:target = "L_31" dm:constraint-text = "= vertices(P_10, P_5)" />
+  <dm:constraint dm:target = "L_34" dm:constraint-text = "= vertices(P_3, P_10)" />
+  <dm:constraint dm:target = "P_11" dm:constraint-text = "= vertical(P_4) and colinear(P_5,P_6)" />
+  <dm:constraint dm:target = "L_12" dm:constraint-text = "= vertices(P_4, P_11)" />
+  <dm:constraint dm:target = "P_12" dm:constraint-text = "= horizontal(P_1) and vertical(P_4)" />
+  <dm:constraint dm:target = "P_13" dm:constraint-text = "= rotate(P_11,P_5,C_0)" />
+  <dm:constraint dm:target = "P_0" dm:constraint-text = "= vertical(P_13) and horizontal(P_4)" />
+  <dm:constraint dm:target = "L_8" dm:constraint-text = "= vertices(P_4, P_0)" />
+  <dm:constraint dm:target = "L_35" dm:constraint-text = "= vertices(P_13, P_0)" />
+  <dm:constraint dm:target = "P_14" dm:constraint-text = "= rotate(P_10,P_5,C_0)" />
+  <dm:constraint dm:target = "L_30" dm:constraint-text = "= vertices(P_14, P_0)" />
+  <dm:constraint dm:target = "P_15" dm:constraint-text = "= rotate(P_7,P_5,C_0)" />
+  <dm:constraint dm:target = "P_16" dm:constraint-text = "= vertical(P_15) and horizontal(P_8)" />
+  <dm:constraint dm:target = "L_36" dm:constraint-text = "= vertices(P_15, P_16)" />
+  <dm:constraint dm:target = "L_37" dm:constraint-text = "= vertices(P_8, P_16)" />
+  <dm:constraint dm:target = "P_17" dm:constraint-text = "= vertical(P_14)" />
+  <dm:constraint dm:target = "L_38" dm:constraint-text = "= vertices(P_14, P_17)" />
+  <dm:constraint dm:target = "C_2" dm:constraint-text = "= angle(P_0,P_14,P_17)" />
+  <dm:constraint dm:target = "P_18" dm:constraint-text = "= rotate(P_0,P_14,C_2)" />
+  <dm:constraint dm:target = "P_19" dm:constraint-text = "= rotate(P_16,P_14,C_2)" />
+  <dm:constraint dm:target = "P_20" dm:constraint-text = "= vertical(P_19) and horizontal(P_15)" />
+  <dm:constraint dm:target = "L_23" dm:constraint-text = "= vertices(P_20, P_14)" />
+  <dm:constraint dm:target = "L_0" dm:constraint-text = "= vertices(P_19, P_20)" />
+  <dm:constraint dm:target = "C_1" dm:constraint-text = "= angle(P_20,P_14,P_1)" />
+  <dm:constraint dm:target = "L_39" dm:constraint-text = "= vertices(P_15, P_20)" />
+  <dm:constraint dm:target = "P_21" dm:constraint-text = "= rotate(P_20,P_14,angle(P_20,P_14,P_1))" />
+  <dm:constraint dm:target = "P_22" dm:constraint-text = "= vertical(P_21) and horizontal(P_19)" />
+  <dm:constraint dm:target = "L_40" dm:constraint-text = "= vertices(P_21, P_22)" />
+  <dm:constraint dm:target = "L_41" dm:constraint-text = "= vertices(P_19, P_22)" />
+  <dm:constraint dm:target = "P_31" dm:constraint-text = "= rotate(P_21,P_14,pi)" />
+  <dm:constraint dm:target = "P_73" dm:constraint-text = "= colinear(P_5,P_6)" />
+  <dm:constraint dm:target = "L_104" dm:constraint-text = "= vertices(P_6, P_73)" />
+  <dm:constraint dm:target = "P_29" dm:constraint-text = "= rotate(P_21,P_14,pi / 3.0)" />
+  <dm:constraint dm:target = "P_34" dm:constraint-text = "= distance(P_14,distance(P_14,P_20))" />
+  <dm:constraint dm:target = "P_37" dm:constraint-text = "= rotate(P_31,P_14, -C_1)" />
+  <dm:constraint dm:target = "S_0" dm:constraint-text = "= anchor(P_14, P_37)" />
+  <dm:constraint dm:target = "P_39" dm:constraint-text = "= rotate(P_29,P_14, -C_1)" />
+  <dm:constraint dm:target = "L_48" dm:constraint-text = "= vertices(P_39, P_20)" />
+  <dm:constraint dm:target = "P_74" dm:constraint-text = "= distance(P_7,8.0)" />
+  <dm:constraint dm:target = "S_1" dm:constraint-text = "= anchor(P_7, P_74)" />
+  <dm:constraint dm:target = "P_75" dm:constraint-text = "= distance(P_8,8.0)" />
+  <dm:constraint dm:target = "S_2" dm:constraint-text = "= anchor(P_8, P_75)" />
+  <dm:constraint dm:target = "P_30" dm:constraint-text = "= rotate(P_21,P_14,4.0 * pi / 3.0)" />
+  <dm:constraint dm:target = "P_36" dm:constraint-text = "= rotate(P_30,P_14, -C_1)" />
+  <dm:constraint dm:target = "L_25" dm:constraint-text = "= vertices(P_14, P_36)" />
+  <dm:constraint dm:target = "L_45" dm:constraint-text = "= vertices(P_36, P_37)" />
+  <dm:constraint dm:target = "P_32" dm:constraint-text = "= rotate(P_21,P_14,2.0 * pi / 3.0)" />
+  <dm:constraint dm:target = "P_38" dm:constraint-text = "= rotate(P_32,P_14, -C_1)" />
+  <dm:constraint dm:target = "L_24" dm:constraint-text = "= vertices(P_14, P_38)" />
+  <dm:constraint dm:target = "L_47" dm:constraint-text = "= vertices(P_38, P_39)" />
+  <dm:constraint dm:target = "L_46" dm:constraint-text = "= vertices(P_37, P_38)" />
+  <dm:constraint dm:target = "P_33" dm:constraint-text = "= rotate(P_21,P_14, -pi / 3.0)" />
+  <dm:constraint dm:target = "P_35" dm:constraint-text = "= rotate(P_33,P_14, -C_1)" />
+  <dm:constraint dm:target = "L_29" dm:constraint-text = "= vertices(P_20, P_35)" />
+  <dm:constraint dm:target = "L_44" dm:constraint-text = "= vertices(P_35, P_36)" />
+  <dm:constraint dm:target = "P_23" dm:constraint-text = "= slope(P_22, -sqrt(0.5)) and vertical(P_14)" />
+  <dm:constraint dm:target = "L_57" dm:constraint-text = "= vertices(P_23, P_19)" />
+  <dm:constraint dm:target = "P_45" dm:constraint-text = "= rotate(P_23,P_14, -C_2)" />
+  <dm:constraint dm:target = "L_73" dm:constraint-text = "= vertices(P_45, P_16)" />
+  <dm:constraint dm:target = "P_24" dm:constraint-text = "= angle(P_23,P_22,pi / 2.0) and vertical(P_14)" />
+  <dm:constraint dm:target = "P_52" dm:constraint-text = "= colinear(P_1,P_2) and vertical(P_45)" />
+  <dm:constraint dm:target = "P_48" dm:constraint-text = "= rotate(P_24,P_14, -C_2)" />
+  <dm:constraint dm:target = "P_25" dm:constraint-text = "= center(P_22,P_24)" />
+  <dm:constraint dm:target = "P_26" dm:constraint-text = "= center(P_24,P_23)" />
+  <dm:constraint dm:target = "P_68" dm:constraint-text = "= rotate(P_52,P_5, -C_0)" />
+  <dm:constraint dm:target = "L_76" dm:constraint-text = "= vertices(P_45, P_52)" />
+  <dm:constraint dm:target = "L_77" dm:constraint-text = "= vertices(P_15, P_52)" />
+  <dm:constraint dm:target = "L_42" dm:constraint-text = "= vertices(P_33, P_25)" />
+  <dm:constraint dm:target = "P_27" dm:constraint-text = "= weight(P_26, 2.0, P_22,  -1.0)" />
+  <dm:constraint dm:target = "L_106" dm:constraint-text = "= vertices(P_7, P_68)" />
+  <dm:constraint dm:target = "P_53" dm:constraint-text = "= vertical(P_48) and colinear(P_1,P_2)" />
+  <dm:constraint dm:target = "P_40" dm:constraint-text = "= vertical(P_35) and horizontal(P_25)" />
+  <dm:constraint dm:target = "P_44" dm:constraint-text = "= vertical(P_39) and horizontal(P_25)" />
+  <dm:constraint dm:target = "P_28" dm:constraint-text = "= center(P_27,P_23)" />
+  <dm:constraint dm:target = "P_67" dm:constraint-text = "= horizontal(P_45) and vertical(P_68)" />
+  <dm:constraint dm:target = "P_62" dm:constraint-text = "= rotate(P_53,P_5, -C_0)" />
+  <dm:constraint dm:target = "L_78" dm:constraint-text = "= vertices(P_48, P_53)" />
+  <dm:constraint dm:target = "L_49" dm:constraint-text = "= vertices(P_35, P_40)" />
+  <dm:constraint dm:target = "L_50" dm:constraint-text = "= vertices(P_25, P_40)" />
+  <dm:constraint dm:target = "L_54" dm:constraint-text = "= vertices(P_19, P_40)" />
+  <dm:constraint dm:target = "P_47" dm:constraint-text = "= rotate(P_40,P_14, -C_2)" />
+  <dm:constraint dm:target = "L_70" dm:constraint-text = "= vertices(P_24, P_40)" />
+  <dm:constraint dm:target = "L_65" dm:constraint-text = "= vertices(P_44, P_19)" />
+  <dm:constraint dm:target = "P_49" dm:constraint-text = "= rotate(P_44,P_14, -C_2)" />
+  <dm:constraint dm:target = "L_68" dm:constraint-text = "= vertices(P_44, P_24)" />
+  <dm:constraint dm:target = "L_61" dm:constraint-text = "= vertices(P_39, P_44)" />
+  <dm:constraint dm:target = "L_62" dm:constraint-text = "= vertices(P_25, P_44)" />
+  <dm:constraint dm:target = "L_43" dm:constraint-text = "= vertices(P_30, P_28)" />
+  <dm:constraint dm:target = "P_42" dm:constraint-text = "= vertical(P_37) and horizontal(P_27)" />
+  <dm:constraint dm:target = "L_13" dm:constraint-text = "= vertices(P_68, P_67)" />
+  <dm:constraint dm:target = "L_9" dm:constraint-text = "= vertices(P_45, P_67)" />
+  <dm:constraint dm:target = "L_75" dm:constraint-text = "= vertices(P_47, P_16)" />
+  <dm:constraint dm:target = "L_117" dm:constraint-text = "= vertices(P_48, P_47)" />
+  <dm:constraint dm:target = "L_118" dm:constraint-text = "= vertices(P_49, P_48)" />
+  <dm:constraint dm:target = "L_74" dm:constraint-text = "= vertices(P_16, P_49)" />
+  <dm:constraint dm:target = "P_43" dm:constraint-text = "= vertical(P_38) and horizontal(P_28)" />
+  <dm:constraint dm:target = "P_41" dm:constraint-text = "= vertical(P_36) and horizontal(P_28)" />
+  <dm:constraint dm:target = "P_50" dm:constraint-text = "= rotate(P_42,P_14, -C_2)" />
+  <dm:constraint dm:target = "L_69" dm:constraint-text = "= vertices(P_24, P_42)" />
+  <dm:constraint dm:target = "L_58" dm:constraint-text = "= vertices(P_27, P_42)" />
+  <dm:constraint dm:target = "L_53" dm:constraint-text = "= vertices(P_37, P_42)" />
+  <dm:constraint dm:target = "P_61" dm:constraint-text = "= horizontal(P_48) and vertical(P_62)" />
+  <dm:constraint dm:target = "P_54" dm:constraint-text = "= horizontal(P_35) and vertical(P_47)" />
+  <dm:constraint dm:target = "P_55" dm:constraint-text = "= horizontal(P_39) and vertical(P_49)" />
+  <dm:constraint dm:target = "L_66" dm:constraint-text = "= vertices(P_44, P_43)" />
+  <dm:constraint dm:target = "L_60" dm:constraint-text = "= vertices(P_28, P_43)" />
+  <dm:constraint dm:target = "L_59" dm:constraint-text = "= vertices(P_38, P_43)" />
+  <dm:constraint dm:target = "L_67" dm:constraint-text = "= vertices(P_43, P_23)" />
+  <dm:constraint dm:target = "L_64" dm:constraint-text = "= vertices(P_42, P_43)" />
+  <dm:constraint dm:target = "P_51" dm:constraint-text = "= rotate(P_43,P_14, -C_2)" />
+  <dm:constraint dm:target = "L_52" dm:constraint-text = "= vertices(P_28, P_41)" />
+  <dm:constraint dm:target = "L_56" dm:constraint-text = "= vertices(P_41, P_23)" />
+  <dm:constraint dm:target = "L_63" dm:constraint-text = "= vertices(P_42, P_41)" />
+  <dm:constraint dm:target = "L_55" dm:constraint-text = "= vertices(P_40, P_41)" />
+  <dm:constraint dm:target = "L_51" dm:constraint-text = "= vertices(P_36, P_41)" />
+  <dm:constraint dm:target = "P_46" dm:constraint-text = "= rotate(P_41,P_14, -C_2)" />
+  <dm:constraint dm:target = "L_112" dm:constraint-text = "= vertices(P_48, P_50)" />
+  <dm:constraint dm:target = "L_95" dm:constraint-text = "= vertices(P_48, P_61)" />
+  <dm:constraint dm:target = "L_96" dm:constraint-text = "= vertices(P_62, P_61)" />
+  <dm:constraint dm:target = "L_80" dm:constraint-text = "= vertices(P_47, P_54)" />
+  <dm:constraint dm:target = "P_64" dm:constraint-text = "= rotate(P_54,P_5, -C_0)" />
+  <dm:constraint dm:target = "L_91" dm:constraint-text = "= vertices(P_54, P_53)" />
+  <dm:constraint dm:target = "L_79" dm:constraint-text = "= vertices(P_35, P_54)" />
+  <dm:constraint dm:target = "L_22" dm:constraint-text = "= vertices(P_54, P_15)" />
+  <dm:constraint dm:target = "L_82" dm:constraint-text = "= vertices(P_49, P_55)" />
+  <dm:constraint dm:target = "L_81" dm:constraint-text = "= vertices(P_39, P_55)" />
+  <dm:constraint dm:target = "L_92" dm:constraint-text = "= vertices(P_53, P_55)" />
+  <dm:constraint dm:target = "L_83" dm:constraint-text = "= vertices(P_55, P_15)" />
+  <dm:constraint dm:target = "P_60" dm:constraint-text = "= rotate(P_55,P_5, -C_0)" />
+  <dm:constraint dm:target = "L_114" dm:constraint-text = "= vertices(P_45, P_51)" />
+  <dm:constraint dm:target = "L_72" dm:constraint-text = "= vertices(P_51, P_50)" />
+  <dm:constraint dm:target = "L_115" dm:constraint-text = "= vertices(P_49, P_51)" />
+  <dm:constraint dm:target = "L_71" dm:constraint-text = "= vertices(P_46, P_45)" />
+  <dm:constraint dm:target = "L_113" dm:constraint-text = "= vertices(P_47, P_46)" />
+  <dm:constraint dm:target = "L_116" dm:constraint-text = "= vertices(P_50, P_46)" />
+  <dm:constraint dm:target = "P_58" dm:constraint-text = "= horizontal(P_37) and vertical(P_50)" />
+  <dm:constraint dm:target = "L_105" dm:constraint-text = "= vertices(P_64, P_7, P_60)" />
+  <dm:constraint dm:target = "L_18" dm:constraint-text = "= vertices(P_7, P_64, P_62, P_60)" />
+  <dm:constraint dm:target = "P_56" dm:constraint-text = "= horizontal(P_38) and vertical(P_51)" />
+  <dm:constraint dm:target = "P_57" dm:constraint-text = "= horizontal(P_36) and vertical(P_46)" />
+  <dm:constraint dm:target = "L_111" dm:constraint-text = "= vertices(P_53, P_58)" />
+  <dm:constraint dm:target = "L_27" dm:constraint-text = "= vertices(P_37, P_58)" />
+  <dm:constraint dm:target = "P_65" dm:constraint-text = "= rotate(P_58,P_5, -C_0)" />
+  <dm:constraint dm:target = "L_93" dm:constraint-text = "= vertices(P_50, P_58)" />
+  <dm:constraint dm:target = "P_63" dm:constraint-text = "= horizontal(P_47) and vertical(P_64)" />
+  <dm:constraint dm:target = "P_59" dm:constraint-text = "= horizontal(P_49) and vertical(P_60)" />
+  <dm:constraint dm:target = "L_84" dm:constraint-text = "= vertices(P_38, P_56)" />
+  <dm:constraint dm:target = "P_72" dm:constraint-text = "= rotate(P_56,P_5, -C_0)" />
+  <dm:constraint dm:target = "L_85" dm:constraint-text = "= vertices(P_51, P_56)" />
+  <dm:constraint dm:target = "L_87" dm:constraint-text = "= vertices(P_55, P_56)" />
+  <dm:constraint dm:target = "L_21" dm:constraint-text = "= vertices(P_58, P_56)" />
+  <dm:constraint dm:target = "L_86" dm:constraint-text = "= vertices(P_52, P_56)" />
+  <dm:constraint dm:target = "L_90" dm:constraint-text = "= vertices(P_57, P_52)" />
+  <dm:constraint dm:target = "L_94" dm:constraint-text = "= vertices(P_58, P_57)" />
+  <dm:constraint dm:target = "P_70" dm:constraint-text = "= rotate(P_57,P_5, -C_0)" />
+  <dm:constraint dm:target = "L_28" dm:constraint-text = "= vertices(P_36, P_57)" />
+  <dm:constraint dm:target = "L_89" dm:constraint-text = "= vertices(P_54, P_57)" />
+  <dm:constraint dm:target = "L_88" dm:constraint-text = "= vertices(P_46, P_57)" />
+  <dm:constraint dm:target = "L_99" dm:constraint-text = "= vertices(P_62, P_65)" />
+  <dm:constraint dm:target = "L_107" dm:constraint-text = "= vertices(P_63, P_8, P_67)" />
+  <dm:constraint dm:target = "L_98" dm:constraint-text = "= vertices(P_64, P_63)" />
+  <dm:constraint dm:target = "L_97" dm:constraint-text = "= vertices(P_47, P_63)" />
+  <dm:constraint dm:target = "L_2" dm:constraint-text = "= vertices(P_59, P_8)" />
+  <dm:constraint dm:target = "L_4" dm:constraint-text = "= vertices(P_59, P_61)" />
+  <dm:constraint dm:target = "L_7" dm:constraint-text = "= vertices(P_49, P_59)" />
+  <dm:constraint dm:target = "L_15" dm:constraint-text = "= vertices(P_60, P_59)" />
+  <dm:constraint dm:target = "L_17" dm:constraint-text = "= vertices(P_7, P_68, P_72, P_60)" />
+  <dm:constraint dm:target = "L_103" dm:constraint-text = "= vertices(P_65, P_72)" />
+  <dm:constraint dm:target = "L_102" dm:constraint-text = "= vertices(P_60, P_72)" />
+  <dm:constraint dm:target = "L_1" dm:constraint-text = "= vertices(P_70, P_65)" />
+  <dm:constraint dm:target = "L_19" dm:constraint-text = "= vertices(P_64, P_70, P_68, P_7)" />
+  <dm:constraint dm:target = "P_66" dm:constraint-text = "= vertical(P_65) and horizontal(P_50)" />
+  <dm:constraint dm:target = "P_71" dm:constraint-text = "= horizontal(P_51) and vertical(P_72)" />
+  <dm:constraint dm:target = "P_69" dm:constraint-text = "= horizontal(P_46) and vertical(P_70)" />
+  <dm:constraint dm:target = "L_14" dm:constraint-text = "= vertices(P_65, P_66)" />
+  <dm:constraint dm:target = "L_20" dm:constraint-text = "= vertices(P_50, P_66)" />
+  <dm:constraint dm:target = "L_10" dm:constraint-text = "= vertices(P_51, P_71)" />
+  <dm:constraint dm:target = "L_3" dm:constraint-text = "= vertices(P_59, P_71)" />
+  <dm:constraint dm:target = "L_11" dm:constraint-text = "= vertices(P_72, P_71)" />
+  <dm:constraint dm:target = "L_101" dm:constraint-text = "= vertices(P_71, P_67)" />
+  <dm:constraint dm:target = "L_109" dm:constraint-text = "= vertices(P_63, P_69, P_67, P_8)" />
+  <dm:constraint dm:target = "L_110" dm:constraint-text = "= vertices(P_63, P_61, P_66, P_69)" />
+  <dm:constraint dm:target = "L_6" dm:constraint-text = "= vertices(P_70, P_69)" />
+  <dm:constraint dm:target = "L_100" dm:constraint-text = "= vertices(P_69, P_67)" />
+  <dm:constraint dm:target = "L_16" dm:constraint-text = "= vertices(P_69, P_66, P_71, P_67)" />
+  <dm:constraint dm:target = "L_26" dm:constraint-text = "= vertices(P_46, P_69)" />
+</svg>

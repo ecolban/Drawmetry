@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Drawmetry (http://www.drawmetry.com/) -->
+<svg width = "602.26" height = "367.67"
+  xmlns:dm="http://www.drawmetry.com"
+  xmlns="http://www.w3.org/2000/svg">
+  <g transform = "translate(0.00, 0.00)" >
+    <path id = "S_0"  stroke="#ffcc00" stroke-width="12.0" fill="none" d = "
+      M 284.5997 204.6953
+      C 274.5212 116.0050 343.9188 38.7566 431.6741 37.6627
+      C 516.1964 36.5219 586.1255 106.4626 583.5579 192.2384" />
+    <path id = "S_1"  stroke="#ffffff" stroke-width="20.0" fill="none" d = "
+      M 322.5743 139.8747
+      C 302.3619 79.3670 245.0308 37.6020 180.3860 37.6500" />
+    <path id = "S_2"  stroke="#0000ff" stroke-width="12.0" fill="none" d = "
+      M 58.3984 100.3630
+      C 9.9951 168.1804 26.2308 261.6662 92.9562 309.5354
+      C 160.0995 357.6665 253.6627 342.1184 301.7823 275.7576
+      C 350.2650 208.8957 335.4816 115.0926 268.7225 66.4202
+      C 189.3643 9.9962 97.4724 44.1398 58.3984 100.3630
+      Z" />
+    <path id = "S_3"  stroke="#ffffff" stroke-width="20.0" fill="none" d = "
+      M 291.4397 235.4253
+      C 311.6522 295.9330 368.9833 337.6980 433.6281 337.6500" />
+    <path id = "S_4"  stroke="#ffcc00" stroke-width="12.0" fill="none" d = "
+      M 582.7226 171.1937
+      C 592.2516 257.7119 525.8600 334.3599 439.1389 337.5487
+      C 353.8569 340.7094 280.9592 271.2038 283.7092 182.7157" />
+    <dm:point id = "P_0" x = "180.3860" y = "187.6500" visible = "true"/>
+    <dm:point id = "P_1" x = "180.3860" y = "37.6500" visible = "true"/>
+    <dm:point id = "P_2" x = "433.6281" y = "187.6500" visible = "true"/>
+    <dm:point id = "P_3" x = "433.6281" y = "337.6500" visible = "true"/>
+  </g>
+  <dm:constraint dm:target = "P_2" dm:constraint-text = "= horizontal(P_0)" />
+  <dm:constraint dm:target = "P_1" dm:constraint-text = "= vertical(P_0) and distance(P_0,150.0)" />
+  <dm:constraint dm:target = "S_2" dm:constraint-text = "= anchor(P_0, P_1)" />
+  <dm:constraint dm:target = "S_1" dm:constraint-text = "= anchor(P_0, P_1)" />
+  <dm:constraint dm:target = "P_3" dm:constraint-text = "= vertical(P_2) and distance(P_2,150.0)" />
+  <dm:constraint dm:target = "S_4" dm:constraint-text = "= anchor(P_2, P_3)" />
+  <dm:constraint dm:target = "S_3" dm:constraint-text = "= anchor(P_2, P_3)" />
+  <dm:constraint dm:target = "S_0" dm:constraint-text = "= anchor(P_2, P_3)" />
+</svg>
