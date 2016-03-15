@@ -1,4 +1,5 @@
-# Drawmetry ![alt text](https://github.com/ecolban/Drawmetry/blob/master/src/images/logo64.png "Drawmetry logo")
+# Drawmetry 
+![alt text](https://github.com/ecolban/Drawmetry/blob/master/src/images/logo64.png "Drawmetry logo")
 
 ## Overview
 Drawmetry is a constraint propagation-based drawing tool used to create precise drawings, such as graphs, charts and diagrams, geometric figures, curves, and floor plans.
