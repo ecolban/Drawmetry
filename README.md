@@ -1,5 +1,5 @@
-# Drawmetry 
 ![alt text](https://github.com/ecolban/Drawmetry/blob/master/src/images/logo64.png "Drawmetry logo")
+# Drawmetry 
 
 ## Overview
 Drawmetry is a constraint propagation-based drawing tool used to create precise drawings, such as graphs, charts and diagrams, geometric figures, curves, and floor plans.
@@ -12,6 +12,6 @@ The point variables are shown as green, orange, and red dots. Green dots are fre
 A [runnable jar file](https://github.com/ecolban/Drawmetry/blob/master/jar/drawmetry.jar) is in the jar folder of this project. Copy the jar file to own computer and launch by double-clicking on the file, or by typing 'java -jar drawmetry.jar' in a terminal window. 
 
 ## Example Drawings
-In the examples folder of this project. You can view these files by opening them with the drawmetry tool. You can also just drag and drop them into the tool, which will add a copy of the drawing into another drawing. Since the save format of the files is SVG, the drawings can also be viewed in a web browser. However, point variables and constraints are extensions to standard SVG and are ignored by the web browser.
+In the [examples folder](https://github.com/ecolban/Drawmetry/tree/master/examples) of this project. You can view these files by opening them with the drawmetry tool. You can also just drag and drop them into the tool, which will add a copy of the drawing into another drawing. Since the save format of the files is SVG, the drawings can also be viewed in a web browser. However, point variables and constraints are extensions to standard SVG and are ignored by the web browser.
 
 
